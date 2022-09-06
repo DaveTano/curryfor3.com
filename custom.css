@@ -1,0 +1,48 @@
+body {
+	bgcolor:pink;
+	font-size: 20px;}
+
+h1 {font-size:40px;
+	color:"";
+	font-weight:600;
+	font-family:"Arial Black";
+	  }
+h2 {font-weight:600 ;
+	font-size:40px;
+	color:green;
+	margin-bottom:50px ;
+	 }
+/*img{
+	border: 5px solid gold;
+	border-radius: 50%;
+}*/
+
+
+
+
+/*This code is for the HTML CLASSES AND ID'S*/
+
+.button-1{
+	color: white;
+	background-color: blue;
+}
+
+.button-2{
+	font-weight: 900;
+	padding:  20px;
+}
+
+.button-3{
+	border:  1px solid #000;
+	width: 100%;
+}
+
+#unique{
+	font-weight: 900;
+	background-color: red;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	border:  none;
+	width: 150px;
+}
